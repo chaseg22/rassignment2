@@ -1,7 +1,6 @@
 # rassignment2
 
 makeCacheMatrix<- function(x = as.matrix) {
-	### Code by CG 02/03/2016
 	inv<- NULL
 	set<- function(y) {
 		x<<- y
